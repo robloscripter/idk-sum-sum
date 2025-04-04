@@ -1,2 +1,3 @@
 # idk-sum-sum
-first
+i have no idea what im doing
+
